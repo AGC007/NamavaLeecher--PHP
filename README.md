@@ -7,7 +7,7 @@
 - Tested ✅
 - Fast ✅
 
-- Leecher Telegram Bot : https://t.me/Leecher_30Nama_Bot 🎨
+- Leecher Telegram Bot : https://t.me/NamavaLeecherBot 🎨
 
 
 ~ Developed by AGC007 ~
